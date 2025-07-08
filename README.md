@@ -22,8 +22,16 @@
 - 🤝 Looking to collaborate on:  
   - Game development  
   - Fun coding projects  
-- 💬 Pronouns: **He/Him** • **They/Them**
-- ⚡ Fun fact: I'm about to take my **National 5 Computing Science** exam 😄
+- 💬 Pronouns: **He / Him** • **They / Them**
+- ⚡ Fun fact: Just smashed my **National 5 Computing Science** exam! Now the countdown to results on **August 5th** begins — fingers crossed! 🚀😎
+
+---
+
+### 🎮 Games I Play
+- GTA 5  
+- Fortnite  
+- Call of Duty  
+- Minecraft
 
 ---
 
@@ -52,10 +60,17 @@
 
 ---
 
+### ⏳ Countdown to National 5 Results
+
+<p align="center">
+  <img src="https://countdownapi.com/api/v1/countdown?date=2025-08-05T00:00:00Z&timezone=Europe/London&format=days-hours-minutes-seconds&theme=dark" alt="Countdown to results" />
+</p>
+
+---
+
 ### 🎥 Latest YouTube Video
 
 [![Watch on YouTube](https://img.youtube.com/vi/ZL3fs3_8ih8/hqdefault.jpg)](https://www.youtube.com/watch?v=ZL3fs3_8ih8)
-
 
 ---
 
