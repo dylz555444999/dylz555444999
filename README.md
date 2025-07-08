@@ -53,7 +53,6 @@
 ---
 
 ### 🎥 Latest YouTube Video
-### 🎥 Latest YouTube Video
 
 [![Watch on YouTube](https://img.youtube.com/vi/ZL3fs3_8ih8/hqdefault.jpg)](https://www.youtube.com/watch?v=ZL3fs3_8ih8)
 
