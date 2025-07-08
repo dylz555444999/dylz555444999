@@ -62,9 +62,7 @@
 
 ### ⏳ Countdown to National 5 Results
 
-<p align="center">
-  <img src="https://countdownapi.com/api/v1/countdown?date=2025-08-05T00:00:00Z&timezone=Europe/London&format=days-hours-minutes-seconds&theme=dark" alt="Countdown to results" />
-</p>
+<script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script><a data-type="countdown" data-id="7640156" class="tickcounter" style="display:block; left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto;" title="exam result countdown" href="//www.tickcounter.com/">exam result countdown</a>
 
 ---
 
