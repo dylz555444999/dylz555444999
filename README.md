@@ -62,14 +62,7 @@
 
 ### ⏳ Countdown to National 5 Results
 
-### ⏳ Countdown to National 5 Results
-
-<p align="center">
-  <a href="https://www.tickcounter.com/countdown/7640156/exam-result-countdown" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.tickcounter.com/countdown/7640156/exam-result-countdown.png" alt="Countdown to results" />
-  </a>
-</p>
-
+<p align="center"> <a href="https://www.tickcounter.com/countdown/7640156/exam-result-countdown" target="_blank" rel="noopener noreferrer"> <img src="https://www.tickcounter.com/widget/countdown/7640156/exam-result-countdown.png" alt="Countdown to exam results" /> </a> </p>
 
 ---
 
