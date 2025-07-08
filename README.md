@@ -53,10 +53,10 @@
 ---
 
 ### 🎥 Latest YouTube Video
+### 🎥 Latest YouTube Video
 
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZL3fs3_8ih8?si=jPbVHBBHr-fgyNAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
+[![Watch on YouTube](https://img.youtube.com/vi/ZL3fs3_8ih8/hqdefault.jpg)](https://www.youtube.com/watch?v=ZL3fs3_8ih8)
+
 
 ---
 
