@@ -60,13 +60,6 @@
 
 ---
 
-### ⏳ Countdown to National 5 Results
-
-<p align="center">
-  <img src="https://countdownapi.com/api/v1/countdown?date=2025-08-05T00:00:00Z&timezone=Europe/London&format=days-hours-minutes-seconds&theme=dark" alt="Countdown to results" />
-</p>
-
----
 
 ### 🎥 Latest YouTube Video
 
