@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Dylan (@dylz555444999)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=450&lines=🎮+Game+Dev+%7C+Unity+%26+C%23;🐍+Python+%7C+Manim+%7C+VB.NET;💡+Building+Really+Cool+Stuff!" alt="Typing SVG" />
+  <b>🎮 Game Developer | 💻 Tech Explorer | 🧠 Always Learning</b>
 </p>
 
 ---
@@ -14,16 +14,16 @@
 ---
 
 ### 🚀 About Me
-- 👀 I love making **games** and exploring all things **computing**
-- 🌱 Learning:  
-  - Unity & C#  
-  - Python (Manim)  
-  - VB.NET  
-- 🤝 Interested in collaborating on:  
-  - 🎮 Game dev projects  
-  - 💻 General tech & programming  
-- 💬 Pronouns: **He/Him** • **They/Them**  
-- ⚡ Fun fact: I’m about to sit my **National 5 Computing Science** exam 😄
+- 👀 Passionate about making **games** and **exploring computing**
+- 🌱 Currently learning:
+  - Unity & C#
+  - Python (Manim)
+  - VB.NET
+- 🤝 Looking to collaborate on:  
+  - Game development  
+  - Fun coding projects  
+- 💬 Pronouns: **He/Him** • **They/Them**
+- ⚡ Fun fact: I'm about to take my **National 5 Computing Science** exam 😄
 
 ---
 
@@ -44,7 +44,7 @@
 
 ---
 
-### 🐍 My Commit Snake
+### 🐍 GitHub Commit Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dylz555444999/Castle-Conquest-2D/output/snake.svg" alt="GitHub Snake" />
@@ -52,20 +52,19 @@
 
 ---
 
-### 🎥 Latest YouTube Videos
+### 🎥 Latest YouTube Video
 
 <p align="center">
-  <iframe width="360" height="215" src="https://www.youtube.com/embed/icv4ouCcg-Q" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-  <iframe width="360" height="215" src="https://www.youtube.com/embed/gKZRSK6XnkM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZL3fs3_8ih8?si=jPbVHBBHr-fgyNAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-- 🎥 **YouTube**: [DYLZFNLEAKS](https://www.youtube.com/@DYLZFNLEAKS)  
+- 📺 **YouTube**: [@DYLZFNLEAKS](https://www.youtube.com/@DYLZFNLEAKS)  
 - 🐦 **X (Twitter)**: [@dyla7125](https://x.com/dyla7125)  
-- 💬 **Discord**: Add me using ID `1265440820648214530`
+- 💬 **Discord**: Add me via ID `1265440820648214530`
 
 ---
 
