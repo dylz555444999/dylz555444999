@@ -82,6 +82,12 @@
 
 ---
 
+### ⚙️ Tech Fun Fact
+
+Did you know? The first computer “bug” was an actual moth stuck in a relay at Harvard in 1947! 🦋
+
+---
+
 <!---
 dylz555444999/dylz555444999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
