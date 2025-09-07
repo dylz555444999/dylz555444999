@@ -23,7 +23,8 @@
   - Game development  
   - Fun coding projects  
 - 💬 Pronouns: **He / Him** • **They / Them**
-- ⚡ Fun fact: Just smashed my **National 5 Computing Science** exam! Now the countdown to results on **August 5th** begins — fingers crossed! 🚀😎
+- ⚡ Fun fact: Just smashed my **National 5 Computing Science** exam! Now the countdown to results on **August 5th** begins — fingers crossed! 🚀😎 C = PASS ON TO HIGHER
+- https://www.sqa.org.uk/files_ccc/h-course-spec-computing-science.pdf
 
 ---
 
